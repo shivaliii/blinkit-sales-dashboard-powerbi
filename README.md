@@ -43,11 +43,7 @@ blinkit-sales-dashboard-powerbi/
 
 ## Dashboard Preview
 
-Add your dashboard screenshot to the `images` folder and display it here.
-
-```markdown
-![Dashboard](images/dashboard.png)
-```
+![Dashboard](dashboard.png)
 
 ## How to Use
 
